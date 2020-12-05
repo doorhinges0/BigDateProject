@@ -59,6 +59,8 @@
             <version>${kafkaclient.version}</version>
         </dependency>
 
+
+
     </dependencies>
 
 
